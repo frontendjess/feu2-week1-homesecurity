@@ -1,0 +1,21 @@
+/* remember variables is always the 1st stylesheet you import
+   order of the imports matter
+*/
+.hero {
+  background: url("../../img/homesecurity-hero.png") center no-repeat;
+  height: 100vh;
+}
+
+.bg-light {
+  background-color: transparent !important;
+}
+
+.cta-container-row {
+  padding-top: 30vh;
+  border: solid 1px hotpink;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #fff;
+}
+/*# sourceMappingURL=style.css.map */

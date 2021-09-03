@@ -1,0 +1,15 @@
+.hero {
+	background: url('../../img/homesecurity-hero.png') center no-repeat;
+	height: 100vh;
+}
+
+.bg-light {
+	background-color: transparent !important;
+}
+
+.cta-container-row {
+	padding-top: 30vh;
+	border: solid 1px hotpink;
+	display: flex;
+	color: map-get($colors, light);
+}
